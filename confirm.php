@@ -39,7 +39,7 @@ $address=$_POST['address'];
                     <legend>Selected Service</legend>
 
                     <div class="food-menu-img">
-                        <img src="images/menu-pizza.jpg" alt="Chicke Hawain Pizza" class="img-responsive img-curve">
+                        <img src="images/s13.png" alt="Electric service" class="img-responsive img-curve">
                     </div>
     
                     <div class="food-menu-desc">

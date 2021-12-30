@@ -51,10 +51,10 @@ session_start();
                     <input type="text" name="full-name" placeholder="E.g. Type Your Name" class="input-responsive" required>
 
                     <div class="order-label">Phone Number</div>
-                    <input type="number" name="contact" placeholder="E.g. 9843xxxxxx" class="input-responsive" required>
+                    <input type="number" name="contact" placeholder="E.g. Type your Mob.No" class="input-responsive" required>
 
                     <div class="order-label">Email</div>
-                    <input type="email" name="email" placeholder="E.g. hi@nisargpatel.com" class="input-responsive" required>
+                    <input type="email" name="email" placeholder="E.g. david@example.com" class="input-responsive" required>
 
                     <div class="order-label">Address</div>
                     <textarea name="address" rows="10" placeholder="E.g. Street, City, Country" class="input-responsive" required></textarea>

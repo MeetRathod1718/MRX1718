@@ -44,7 +44,7 @@
               </div>
           
           </form>
-          <form action="signup.php" class="sign-up-form" method="POST" >
+          <form action="msignup.php" class="sign-up-form" method="POST" >
             
               <h2 class="title">Sign up</h2>
             
@@ -55,12 +55,21 @@
               <!--icon is yet to be putted -->
               <div class="input-field">
                 <i class="fas fa-user"></i>
-                <input type="number" name="Mobile No" placeholder="Mob. No" />
+                <input type="number" name="Mobile_No" placeholder="Mob. No" />
               </div>
               
               <div class="input-field">
                 <i class="fas fa-envelope"></i>
                 <input type="email" name="user-email" placeholder="Email" />
+              </div>
+              <div class="input-field">
+                <i class="fas fa-lock"></i>
+                <select name="city" id="city">
+                <option value="Bhavnagar">Bhavnagar</option>
+                <option value="Surat">Surat</option>
+                <option value="Rajkot">Rajkot</option>
+                <option value="Ahmedabad">Ahmedabad</option>
+                </select>
               </div>
               <div class="input-field">
                 <i class="fas fa-lock"></i>
